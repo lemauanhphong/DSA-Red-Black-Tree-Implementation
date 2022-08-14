@@ -12,6 +12,7 @@
 bash build_and_run.sh
 ```
 ## References:
+- [Main](/Trees-Student.pdf)
 - [Series 1](https://www.youtube.com/watch?v=nMExd4DthdA)
 - [Series 2](https://www.youtube.com/watch?v=ZxCvM-9BaXE)
 - [Series 3](https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/)
